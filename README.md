@@ -1,2 +1,2 @@
 # Gitcoin-memes-schwag
-Schwag for gitcoin
+Schwag for gitcoin is a licence property of Gitcoin.
